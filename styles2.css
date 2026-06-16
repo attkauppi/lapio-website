@@ -1,0 +1,39 @@
+/* .first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+
+.second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    left: 250px;
+    position: absolute;
+}
+
+.third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+} */
+ body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
+}
+
+h2 {
+    margin-top: 1em;
+    padding-bottom: 1em;
+    color: #333;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+  background: #eee;
+}
